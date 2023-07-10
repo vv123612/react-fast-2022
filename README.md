@@ -1,3 +1,13 @@
+# Idea
+https://youtu.be/OJ16BaPC6VI
+
+# RUN
+docker-compose
+npm install
+npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
