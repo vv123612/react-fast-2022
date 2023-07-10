@@ -5,7 +5,7 @@ services:
   nodejs:
     image: node:20.3-bullseye
     container_name: node20_3
-    hostname: node20_3node14
+    hostname: node20_3
     restart: always
     stdin_open: true # docker run -i
     tty: true        # docker run -t    
